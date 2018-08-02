@@ -76,4 +76,4 @@ Here+2 | Here+ | Here2 | Here
 
 ------
 
-hex.aero | The Future Crafted by You!
+HEX® | The Future Crafted by You!

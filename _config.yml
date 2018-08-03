@@ -15,7 +15,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Stdio', link: '/Stdio'}
+  - {name: 'Studio', link: '/Studio'}
   - {name: 'Wiki', link: '/wiki'}
   - {name: 'Developers', link: '/Developers'}
   - {name: 'Contact', link: '/contact'}

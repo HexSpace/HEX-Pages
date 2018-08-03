@@ -4,23 +4,20 @@ author: HexSpace # You :P
 description: > # Meta description of Homepage
   不願將就，不滿現狀
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hexspace.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+
 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Stdio', link: '/Stdio'}
   - {name: 'Wiki', link: '/wiki'}
+  - {name: 'Developers', link: '/Developers'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
